@@ -1,5 +1,32 @@
-FlatWoken icon theme
+# FunkySquareDance
+### a fork of FlatWoken icon theme by alecive
+
 =========
+Icons added:
+
+#### Apps
+- Google Calendar
+- Thunderbird (3 x variants)
+- Terminal (5 x variants)
+- LocalWP
+- SimpleScreenRecorder
+- VSCodium
+- VSCodium GoLang Profile
+- VSCodium Flutter Profile
+- VSCodium Bash/Shell Profile
+- VSCode (4 x variants)
+- Microsoft Teams (5 x variants)
+- Upwork (2 x variants - one for client and one for freelancer)
+- Mattermost
+- BoxySVG
+- Nextcloud (8 x variants)
+- Obsidian
+- Jellyfin (4 x variants)
+- Vivaldi
+
+#### Devices
+- Synthesizer (2 x variants)
+
 
 ![FlatWoken_500icons](https://cloud.githubusercontent.com/assets/4378663/4010483/e8a7f18c-29f5-11e4-869c-e0f314965049.jpg)
 
